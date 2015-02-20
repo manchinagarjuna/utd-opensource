@@ -41,3 +41,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# IDE project files to ignore
+# Eclipse with c/c++ plugin installed
+.cproject
+.project
